@@ -21,7 +21,7 @@ This landing page includes the following sections:
 3. **How It Works** - Step-by-step process explanation
 4. **Pricing Section** - Pricing plans and tiers
 
-   <img 
+   ![image alt](https://github.com/pruthvirajghule/cursor_langing_page/blob/133e09002fec4dc862e6a2fa3e1fef04f8a512a1/Screenshot%202026-02-05%20231203.png)
 
 
 
