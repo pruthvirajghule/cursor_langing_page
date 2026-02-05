@@ -20,6 +20,29 @@ This landing page includes the following sections:
 2. **Features Section** - Key product features with icons/descriptions
 3. **How It Works** - Step-by-step process explanation
 4. **Pricing Section** - Pricing plans and tiers
+
+   <img 
+
+
+
+## Technologies Used
+
+- HTML5
+- CSS3 (Flexbox & Grid)
+
+---
+
+## How to Run Locally
+
+1. Clone the repository:
+   ```bash
+   git clone----  https://github.com/pruthvirajghule/cursor_langing_page
+   ```
+2. Navigate to the project folder:
+```bash
+cd cursor-landing-page
+```
+3. Open index.html in your browser or use a live server extension.
 5. **Testimonials** - Customer reviews and feedback
 6. **FAQ Section** - Frequently asked questions (accordion style)
 7. **CTA Section** - Final call-to-action banner
