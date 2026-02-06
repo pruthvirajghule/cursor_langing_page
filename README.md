@@ -1,4 +1,4 @@
-# cursor_langing_page
+# cursor_landging_page
 
 A modern, responsive landing page clone of cursor built with HTML and CSS.
 
@@ -10,7 +10,7 @@ A modern, responsive landing page clone of cursor built with HTML and CSS.
 - colors as same as website
 - some animated things i could not find so i have taken screenshot and used it
 - and also there is many way to do the css styling so if i have not used your preffered way to do it so don't worry as long as it works no issue
-- is there is any issue masterji username : @vagheladev25
+
 
 ## Sections Recreated
 
